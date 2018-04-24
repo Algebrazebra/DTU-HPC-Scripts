@@ -16,7 +16,7 @@ exit
 
 ## Submitting to the Job Queue
 Jobs are submitted using a submission shell script via
-````
+```
 bsub < submit.sh
 ```
 The shell script contains the instructions for the load handler as well as necessary commands to execute your code. A sample job script is provided with the submit.sh file in this repo. Simply alter the file to your needs and liking. For more information on the job script please refer to the official documentation given here: [Batch Jobs](https://www.hpc.dtu.dk/?page_id=234).
