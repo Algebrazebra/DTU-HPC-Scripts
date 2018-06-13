@@ -5,7 +5,7 @@ Since the available modules are dependent on the login node, I have to add the d
 
 ## Setting your Python environment with Tensorflow and Keras
 
-First, connect with the DTU HPC servers using ssh. As stated, I recommend the second login node. After logging in, navigate to your desired project directory and execute the following to set up your Python environment including Tensorflow and Keras based on the CUDA 9.0 install.
+First, connect with the DTU HPC servers using ssh. As stated, I recommend the second login node. After logging in, navigate to your desired project directory and execute the following to set up your Python environment including Tensorflow and Keras based on the CUDA 9.0 install. After exiting, you can, for example, login to an interactive GPU node to run your code.
 ```
 linuxsh
 wget https://github.com/Algebrazebra/DTU-HPC-Scripts/raw/master/setup.sh
