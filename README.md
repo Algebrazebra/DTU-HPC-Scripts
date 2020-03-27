@@ -25,6 +25,3 @@ Upon successful submission you can check the status of your current submissions 
 ```
 bstat
 ```
-
-## Useful Commands When Working with the HPC
-Under construction
